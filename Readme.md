@@ -1,6 +1,5 @@
-How to run locally (quick start)
+Flutter - node - translator
 
-Clone repo.  git clone ...
 
 Start server:
 
@@ -26,7 +25,7 @@ flutter run (choose iOS simulator or device)
 Download the latest Flutter SDK zip from the official site:
 https://docs.flutter.dev/get-started/install/windows
 
-Extract it somewhere like C:\src\flutter (avoid spaces in the path).
 
-Do not put it inside C:\Program Files — Windows permissions can cause issues.
+
+
 
