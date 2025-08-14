@@ -1,3 +1,46 @@
 .env*
 package-lock.json
 node_modules/
+
+# Flutter & Dart specific
+.dart_tool/
+.packages
+.pub-cache/
+build/
+flutter_*.png
+
+# IntelliJ / Android Studio
+*.iml
+.idea/
+*.ipr
+*.iws
+
+# VS Code
+.vscode/
+
+# Android
+android/local.properties
+android/app/google-services.json
+*.keystore
+*.jks
+app.*.map.json
+
+# iOS & macOS
+ios/Flutter/Flutter.podspec
+ios/Pods/
+ios/.symlinks/
+ios/Flutter/Generated.xcconfig
+ios/Flutter/ephemeral/
+macos/Flutter/ephemeral/
+*.xcworkspace
+*.xcuserstate
+*.xcodeproj/project.xcworkspace/
+*.xcodeproj/xcuserdata/
+
+# Web
+web/.dart_tool/
+web/manifest.json (if generated)
+
+# Windows & Linux
+windows/runner/
+linux/runner/

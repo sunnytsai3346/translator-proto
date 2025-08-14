@@ -1,6 +1,6 @@
 How to run locally (quick start)
 
-Clone repo.  git clone ...
+Clone repo.  git clone ...   clone Flutter SDK
 
 Start server:
 
